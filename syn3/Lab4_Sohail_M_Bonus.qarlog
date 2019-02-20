@@ -1,0 +1,34 @@
+Quartus Prime Archive log --	C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/syn3/Lab4_Sohail_M_Bonus.qarlog
+
+Archive:	C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/syn3/Lab4_Sohail_M_Bonus.qar
+Date:		Mon Apr 09 10:42:15 2018
+Quartus Prime		17.1.0 Build 590 10/25/2017 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/Lab2_Scrambler_SohailShareef_Md.v
+C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/Lab3_Sohail_M.v
+C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/Lab3_accessControl_test.v
+C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/ROM_Top_Test.v
+C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/ROM_top.mif
+C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/access_control_lab4.v
+C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/adder.v
+C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/buttonInversion.v
+C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/button_shaper.v
+C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/counter.v
+C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/load_register.v
+C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/randomNumber.v
+C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/rng_test.v
+C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/seven_seg.v
+C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/shiftRegister.v
+C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/tb_accesscontrol.v
+C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/tb_button_shaper.v
+C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/tb_buttoninversion.v
+C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/tb_load_reg.v
+C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/timer.v
+C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/syn3/Lab4_Sohail_M.qpf
+C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/syn3/Lab4_Sohail_M.qsf
+c:/intelfpga_lite/17.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 23 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

@@ -1,0 +1,27 @@
+
+State Machine - |Lab4_Sohail_M|button_shaper:ld1button|state
+Name state.s_wait state.state2 state.state1 
+state.s_wait 0 0 0 
+state.state1 1 0 1 
+state.state2 1 1 0 
+
+State Machine - |Lab4_Sohail_M|access_control:a1|state
+Name state.s7 state.s5 state.s3 state.s2 state.s1 state.s_wait 
+state.s_wait 0 0 0 0 0 0 
+state.s1 0 0 0 0 1 1 
+state.s2 0 0 0 1 0 1 
+state.s3 0 0 1 0 0 1 
+state.s5 0 1 0 0 0 1 
+state.s7 1 0 0 0 0 1 
+
+State Machine - |Lab4_Sohail_M|button_shaper:ld2button|state
+Name state.s_wait state.state2 state.state1 
+state.s_wait 0 0 0 
+state.state1 1 0 1 
+state.state2 1 1 0 
+
+State Machine - |Lab4_Sohail_M|button_shaper:b1|state
+Name state.s_wait state.state2 state.state1 
+state.s_wait 0 0 0 
+state.state1 1 0 1 
+state.state2 1 1 0 

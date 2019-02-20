@@ -1,0 +1,3 @@
+Warning (10268): Verilog HDL information at timer.v(12): always construct contains both blocking and non-blocking assignments File: C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/timer.v Line: 12
+Warning (10268): Verilog HDL information at load_register.v(11): always construct contains both blocking and non-blocking assignments File: C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/load_register.v Line: 11
+Warning (10268): Verilog HDL information at access_control_lab4.v(20): always construct contains both blocking and non-blocking assignments File: C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/access_control_lab4.v Line: 20

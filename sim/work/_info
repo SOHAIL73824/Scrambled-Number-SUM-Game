@@ -1,0 +1,545 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/17.1
+vaccess_control
+Z0 !s110 1523288072
+!i10b 1
+!s100 fFf?:X^Yaf][z6X3zGz?63
+I67dafkb]I@eNh4ib6ic1S3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim
+w1522949064
+8C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/access_control_lab4.v
+FC:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/access_control_lab4.v
+L0 6
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1523288072.000000
+!s107 C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/access_control_lab4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/access_control_lab4.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vaccessControl
+Z7 !s110 1523288070
+!i10b 1
+!s100 j:aTAch[ga`nggV`inPe33
+IfHgQoZaCNJ0ekWS=@OaX_2
+R1
+R2
+w1521961977
+8C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/SohailShareef_accessControl.v
+FC:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/SohailShareef_accessControl.v
+L0 6
+R3
+r1
+!s85 0
+31
+Z8 !s108 1523288070.000000
+!s107 C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/SohailShareef_accessControl.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/SohailShareef_accessControl.v|
+!i113 1
+R5
+R6
+naccess@control
+vaccessControl_tb
+R7
+!i10b 1
+!s100 LlQToCSn21c;m3cS_V7A^1
+IW^oW29do^z6g?4O>D3IFg0
+R1
+R2
+w1520853073
+8C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/Lab3_accessControl_test.v
+FC:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/Lab3_accessControl_test.v
+L0 3
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/Lab3_accessControl_test.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/Lab3_accessControl_test.v|
+!i113 1
+R5
+R6
+naccess@control_tb
+vadder
+Z9 !s110 1523288069
+!i10b 1
+!s100 ;fOe43e1PzY7G`XgJmDIH3
+IX_:5S0fo4WKSSL7Ki6BeC1
+R1
+R2
+w1520602666
+8C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/adder.v
+FC:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/adder.v
+L0 4
+R3
+r1
+!s85 0
+31
+Z10 !s108 1523288069.000000
+!s107 C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/adder.v|
+!i113 1
+R5
+R6
+vbutton_inv
+Z11 !s110 1523288071
+!i10b 1
+!s100 FH;6ZK9aii?cdi557BV6;3
+IzSY^Nb1mSeh=3Fg@70CIK3
+R1
+R2
+w1522947302
+8C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/buttonInversion.v
+FC:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/buttonInversion.v
+L0 6
+R3
+r1
+!s85 0
+31
+Z12 !s108 1523288071.000000
+!s107 C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/buttonInversion.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/buttonInversion.v|
+!i113 1
+R5
+R6
+vbutton_shaper
+R9
+!i10b 1
+!s100 =M_VlhoO:;8jQ:8b25^X>0
+IC_^Bb3:7<@zWjSgURbSJ51
+R1
+R2
+w1522461423
+8C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/button_shaper.v
+FC:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/button_shaper.v
+L0 5
+R3
+r1
+!s85 0
+31
+R10
+!s107 C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/button_shaper.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/button_shaper.v|
+!i113 1
+R5
+R6
+vcounter
+R0
+!i10b 1
+!s100 AmElTnL1`=liPSM@FH``B0
+IPV_RHb[eWzhdF@PEFE^=[1
+R1
+R2
+w1523025927
+8C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/counter.v
+FC:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/counter.v
+L0 1
+R3
+r1
+!s85 0
+31
+R12
+!s107 C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/counter.v|
+!i113 1
+R5
+R6
+vLab3_Bonus_Sohail_M
+!s110 1522450790
+!i10b 1
+!s100 6Z6iP[_B]dD[IK8VLMj=:0
+IV=:;_8InVj>edGcG>QYDY0
+R1
+R2
+w1520848920
+Z13 8C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/Lab3_Sohail_M.v
+Z14 FC:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/Lab3_Sohail_M.v
+L0 4
+R3
+r1
+!s85 0
+31
+!s108 1522450790.000000
+Z15 !s107 C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/Lab3_Sohail_M.v|
+Z16 !s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/Lab3_Sohail_M.v|
+!i113 1
+R5
+R6
+n@lab3_@bonus_@sohail_@m
+vLab4_ROM1
+!s110 1522430008
+!i10b 1
+!s100 I[h8ibmcBLbOBPSF=jajE2
+IX0F[FEgC6gAn?J<UkR]`00
+R1
+R2
+w1522223675
+8C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/Lab4_ROM1.v
+FC:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/Lab4_ROM1.v
+Z17 L0 39
+R3
+r1
+!s85 0
+31
+!s108 1522430008.000000
+!s107 C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/Lab4_ROM1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/Lab4_ROM1.v|
+!i113 1
+R5
+R6
+n@lab4_@r@o@m1
+vLab4_Sohail_M
+R7
+!i10b 1
+!s100 mhL=1T4Ugn=D872D^KE5[3
+I4KzLXIm_]W?<oZWh:=4?[2
+R1
+R2
+w1523287876
+R13
+R14
+L0 4
+R3
+r1
+!s85 0
+31
+R8
+R15
+R16
+!i113 1
+R5
+R6
+n@lab4_@sohail_@m
+vload_register
+R7
+!i10b 1
+!s100 6[nZXeaUkK<<1@zbVH]4b2
+I2aiOY:zI0K360DUb_>QU<0
+R1
+R2
+w1523287819
+8C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/load_register.v
+FC:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/load_register.v
+L0 4
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/load_register.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/load_register.v|
+!i113 1
+R5
+R6
+vrandomNumb
+R0
+!i10b 1
+!s100 JU3hn3mFI?[<Yg>=lH0A=0
+IIcjQ@gVYaYcZB2fc34XZg2
+R1
+R2
+w1521962603
+8C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/randomNumber.v
+FC:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/randomNumber.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/randomNumber.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/randomNumber.v|
+!i113 1
+R5
+R6
+nrandom@numb
+vROM_Testmodule
+Z18 !s110 1523288073
+!i10b 1
+!s100 8dUE0g@HB6<jPn8>;dP;n2
+ITda:63dAazW;WZRP?UbQe2
+R1
+R2
+w1523054252
+8C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim2/ROM_Test.v
+FC:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim2/ROM_Test.v
+L0 2
+R3
+r1
+!s85 0
+31
+Z19 !s108 1523288073.000000
+!s107 C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim2/ROM_Test.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim2/ROM_Test.v|
+!i113 1
+R5
+R6
+n@r@o@m_@testmodule
+vROM_Top_Test
+R0
+!i10b 1
+!s100 >DCO?V;AXEEZgSDeZlLhh2
+I>[<Pb`LBcb>NT5oklHXN93
+R1
+R2
+w1522385562
+8C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/ROM_Top_Test.v
+FC:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/ROM_Top_Test.v
+R17
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/ROM_Top_Test.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/ROM_Top_Test.v|
+!i113 1
+R5
+R6
+n@r@o@m_@top_@test
+vseven_seg
+R7
+!i10b 1
+!s100 oYW4m4WoK[_GE?Z01Q8<T2
+IobIVhC0RCe0V:hVgB65Kb0
+R1
+R2
+w1520856106
+8C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/seven_seg.v
+FC:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/seven_seg.v
+L0 4
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/seven_seg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/seven_seg.v|
+!i113 1
+R5
+R6
+vt_timer
+Z20 !s110 1523288074
+!i10b 1
+!s100 eYLgd^f6Sha]@9MAae1<f3
+IAiFbP81E@8JEbJdj8VdCa0
+R1
+R2
+w1523288014
+8C:\intelFPGA\17.1\Lab4_RNGandROm_Sohail_M\sim\timer.v
+FC:\intelFPGA\17.1\Lab4_RNGandROm_Sohail_M\sim\timer.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z21 !s108 1523288074.000000
+!s107 C:\intelFPGA\17.1\Lab4_RNGandROm_Sohail_M\sim\timer.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\intelFPGA\17.1\Lab4_RNGandROm_Sohail_M\sim\timer.v|
+!i113 1
+R5
+R6
+vTest_overall
+R18
+!i10b 1
+!s100 jjEB]oYGod@M:3]N<=U]h0
+I7JoQAO@07^zjcGV0zBbDB1
+R1
+R2
+w1523054647
+8C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/test1.v
+FC:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/test1.v
+L0 2
+R3
+r1
+!s85 0
+31
+R19
+!s107 C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/test1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/test1.v|
+!i113 1
+R5
+R6
+n@test_overall
+vtestb_accesscontrol
+R11
+!i10b 1
+!s100 kFWeb=PLYUG@YZWHQ2Jeo1
+IB<`QTj_A?i?Xc4iCD[dcg1
+R1
+R2
+w1523029638
+8C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/tb_accesscontrol.v
+FC:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/tb_accesscontrol.v
+L0 5
+R3
+r1
+!s85 0
+31
+R12
+!s107 C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/tb_accesscontrol.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/tb_accesscontrol.v|
+!i113 1
+R5
+R6
+vtestb_counter
+R18
+!i10b 1
+!s100 ]]1zR?`gYRc@0ooJ7Dl;n2
+I]4_Y7V36MV:h<38b6H`W@0
+R1
+R2
+w1523026554
+8C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/tb_counter.v
+FC:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/tb_counter.v
+L0 6
+R3
+r1
+!s85 0
+31
+R19
+!s107 C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/tb_counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/tb_counter.v|
+!i113 1
+R5
+R6
+vtestb_load_reg
+R11
+!i10b 1
+!s100 gHGS8SEDG@gkH9W?=8>Le0
+I7SNVOG7OH1Q8f5T2bHOdS1
+R1
+R2
+w1520847100
+8C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/tb_load_reg.v
+FC:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/tb_load_reg.v
+L0 5
+R3
+r1
+!s85 0
+31
+R12
+!s107 C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/tb_load_reg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/tb_load_reg.v|
+!i113 1
+R5
+R6
+vtestb_timer
+R20
+!i10b 1
+!s100 5n90zZS?84ghmP<[fIA4;2
+IJi4eJ@m>3QQdOb^1Lo5[z1
+R1
+R2
+w1523073136
+8C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/tb_timer.v
+FC:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/tb_timer.v
+L0 6
+R3
+r1
+!s85 0
+31
+R21
+!s107 C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/tb_timer.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/tb_timer.v|
+!i113 1
+R5
+R6
+vtestbench_button_inversion
+R18
+!i10b 1
+!s100 a5JI<MQM]PEZZ8efOn@:J1
+ISW`0=h=b7Z=^;=gj2gECS1
+R1
+R2
+w1523050347
+8C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/tb_buttoninversion.v
+FC:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/tb_buttoninversion.v
+L0 5
+R3
+r1
+!s85 0
+31
+R19
+!s107 C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/tb_buttoninversion.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/tb_buttoninversion.v|
+!i113 1
+R5
+R6
+vtestbench_button_shaper
+R11
+!i10b 1
+!s100 R0ef;DmTAk;:nE2[fUVT?1
+Ie7834XU0m<76h6L;EQ;hT1
+R1
+R2
+w1520842162
+8C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/tb_button_shaper.v
+FC:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/tb_button_shaper.v
+L0 5
+R3
+r1
+!s85 0
+31
+R12
+!s107 C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/tb_button_shaper.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/tb_button_shaper.v|
+!i113 1
+R5
+R6
+vtestbench_randomNumber
+R0
+!i10b 1
+!s100 0WT:0KSB_51RnnmH7OD7Q2
+IY6`SGXiKg5fIo:D_HZA9C1
+R1
+R2
+w1523027672
+8C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/rng_test.v
+FC:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/rng_test.v
+L0 6
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/rng_test.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/rng_test.v|
+!i113 1
+R5
+R6
+ntestbench_random@number
+vunscramble
+R11
+!i10b 1
+!s100 LE>8TIhHT0]^3TLPO8iV^1
+I1[@nl6l?e`hUDj=VQY4J[0
+R1
+R2
+w1520825933
+8C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/unscramble.v
+FC:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/unscramble.v
+L0 4
+R3
+r1
+!s85 0
+31
+R12
+!s107 C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/unscramble.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/unscramble.v|
+!i113 1
+R5
+R6

@@ -1,0 +1,241 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "green_led",
+					"strict" : false
+				},
+				{
+					"name" : "red_led",
+					"strict" : false
+				},
+				{
+					"name" : "sevenseg_num1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "sevenseg_num1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "sevenseg_num1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "sevenseg_num1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "sevenseg_num1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "sevenseg_num1[5]",
+					"strict" : false
+				},
+				{
+					"name" : "sevenseg_num1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "sevenseg_num2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "sevenseg_num2[1]",
+					"strict" : false
+				},
+				{
+					"name" : "sevenseg_num2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "sevenseg_num2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "sevenseg_num2[4]",
+					"strict" : false
+				},
+				{
+					"name" : "sevenseg_num2[5]",
+					"strict" : false
+				},
+				{
+					"name" : "sevenseg_num2[6]",
+					"strict" : false
+				},
+				{
+					"name" : "sevenseg_sum[0]",
+					"strict" : false
+				},
+				{
+					"name" : "sevenseg_sum[1]",
+					"strict" : false
+				},
+				{
+					"name" : "sevenseg_sum[2]",
+					"strict" : false
+				},
+				{
+					"name" : "sevenseg_sum[3]",
+					"strict" : false
+				},
+				{
+					"name" : "sevenseg_sum[4]",
+					"strict" : false
+				},
+				{
+					"name" : "sevenseg_sum[5]",
+					"strict" : false
+				},
+				{
+					"name" : "sevenseg_sum[6]",
+					"strict" : false
+				},
+				{
+					"name" : "counter_min[0]",
+					"strict" : false
+				},
+				{
+					"name" : "counter_min[1]",
+					"strict" : false
+				},
+				{
+					"name" : "counter_min[2]",
+					"strict" : false
+				},
+				{
+					"name" : "counter_min[3]",
+					"strict" : false
+				},
+				{
+					"name" : "counter_min[4]",
+					"strict" : false
+				},
+				{
+					"name" : "counter_min[5]",
+					"strict" : false
+				},
+				{
+					"name" : "counter_min[6]",
+					"strict" : false
+				},
+				{
+					"name" : "counter_sec[0]",
+					"strict" : false
+				},
+				{
+					"name" : "counter_sec[1]",
+					"strict" : false
+				},
+				{
+					"name" : "counter_sec[2]",
+					"strict" : false
+				},
+				{
+					"name" : "counter_sec[3]",
+					"strict" : false
+				},
+				{
+					"name" : "counter_sec[4]",
+					"strict" : false
+				},
+				{
+					"name" : "counter_sec[5]",
+					"strict" : false
+				},
+				{
+					"name" : "counter_sec[6]",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "rst",
+					"strict" : false
+				},
+				{
+					"name" : "switch_num2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "switch_num2[1]",
+					"strict" : false
+				},
+				{
+					"name" : "switch_num2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "switch_num2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "toggle1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "toggle1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "toggle1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "toggle1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "ld1",
+					"strict" : false
+				},
+				{
+					"name" : "input1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "input1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "input1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "input1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "input2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "input2[1]",
+					"strict" : false
+				},
+				{
+					"name" : "input2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "input2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "button1",
+					"strict" : false
+				},
+				{
+					"name" : "ld2",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

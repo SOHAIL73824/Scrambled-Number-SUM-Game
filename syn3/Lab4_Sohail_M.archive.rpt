@@ -1,0 +1,118 @@
+Archive Project report for Lab4_Sohail_M
+Mon Apr 09 22:28:38 2018
+Quartus Prime Version 17.1.0 Build 590 10/25/2017 SJ Lite Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Archive Project Summary
+  3. Archive Project Messages
+  4. Files Archived
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 2017  Intel Corporation. All rights reserved.
+Your use of Intel Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Intel Program License 
+Subscription Agreement, the Intel Quartus Prime License Agreement,
+the Intel FPGA IP License Agreement, or other applicable license
+agreement, including, without limitation, that your use is for
+the sole purpose of programming logic devices manufactured by
+Intel and sold by Intel or its authorized distributors.  Please
+refer to the applicable agreement for further details.
+
+
+
++----------------------------------------------------------------+
+; Archive Project Summary                                        ;
++------------------------+---------------------------------------+
+; Archive Project Status ; Successful - Mon Apr 09 22:28:38 2018 ;
+; Revision Name          ; Lab4_Sohail_M                         ;
+; Top-level Entity Name  ; Lab4_Sohail_M                         ;
+; Family                 ; Cyclone IV E                          ;
++------------------------+---------------------------------------+
+
+
++--------------------------+
+; Archive Project Messages ;
++--------------------------+
+Info: File Set 'Source control' contains:
+    Info: Project source and settings files
+    Info: Automatically detected source files
+Warning: Hierarchical Platform Designer systems and custom IP components(_hw.tcl and associated files) are not archived by the Quartus Archiver
+Info: Archive will store files relative to the closest common parent directory
+Info (13213): Using common directory C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/
+Info: ----------------------------------------------------------
+Info: ----------------------------------------------------------
+Info: Generated archive 'C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/syn3/Lab4_Sohail_M.qar'
+Info: ----------------------------------------------------------
+Info: ----------------------------------------------------------
+Info: Generated report 'Lab4_Sohail_M.archive.rpt'
+Info (23030): Evaluation of Tcl script c:/intelfpga_lite/17.1/quartus/common/tcl/apps/qpm/qar.tcl was successful
+Info: Quartus Prime Shell was successful. 0 errors, 1 warning
+    Info: Peak virtual memory: 774 megabytes
+    Info: Processing ended: Mon Apr 09 22:28:38 2018
+    Info: Elapsed time: 00:00:05
+    Info: Total CPU time (on all processors): 00:00:02
+
+
++---------------------------------------------------------------------------------+
+; Files Archived                                                                  ;
++---------------------------------------------------------------------------------+
+; File Name                                                                       ;
++---------------------------------------------------------------------------------+
+; ../sim/access_control_lab4.v                                                    ;
+; ../sim/adder.v                                                                  ;
+; ../sim/button_shaper.v                                                          ;
+; ../sim/buttonInversion.v                                                        ;
+; ../sim/counter.v                                                                ;
+; ../sim/Lab2_Scrambler_SohailShareef_Md.v                                        ;
+; ../sim/Lab3_accessControl_test.v                                                ;
+; ../sim/Lab3_Sohail_M.v                                                          ;
+; ../sim/load_register.v                                                          ;
+; ../sim/randomNumber.v                                                           ;
+; ../sim/rng_test.v                                                               ;
+; ../sim/ROM_top.mif                                                              ;
+; ../sim/ROM_Top_Test.v                                                           ;
+; ../sim/seven_seg.v                                                              ;
+; ../sim/shiftRegister.v                                                          ;
+; ../sim/tb_accesscontrol.v                                                       ;
+; ../sim/tb_button_shaper.v                                                       ;
+; ../sim/tb_buttoninversion.v                                                     ;
+; ../sim/tb_load_reg.v                                                            ;
+; ../sim/timer.v                                                                  ;
+; C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/access_control_lab4.v             ;
+; C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/adder.v                           ;
+; C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/button_shaper.v                   ;
+; C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/buttonInversion.v                 ;
+; C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/counter.v                         ;
+; C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/Lab2_Scrambler_SohailShareef_Md.v ;
+; C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/Lab3_accessControl_test.v         ;
+; C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/Lab3_Sohail_M.v                   ;
+; C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/load_register.v                   ;
+; C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/randomNumber.v                    ;
+; C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/rng_test.v                        ;
+; C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/ROM_top.mif                       ;
+; C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/ROM_Top_Test.v                    ;
+; C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/seven_seg.v                       ;
+; C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/shiftRegister.v                   ;
+; C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/tb_accesscontrol.v                ;
+; C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/tb_button_shaper.v                ;
+; C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/tb_buttoninversion.v              ;
+; C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/tb_load_reg.v                     ;
+; C:/intelFPGA/17.1/Lab4_RNGandROm_Sohail_M/sim/timer.v                           ;
+; c:/intelfpga_lite/17.1/quartus/bin64/assignment_defaults.qdf                    ;
+; Lab4_Sohail_M.qpf                                                               ;
+; Lab4_Sohail_M.qsf                                                               ;
++---------------------------------------------------------------------------------+
+
+

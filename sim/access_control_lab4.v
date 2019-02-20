@@ -1,0 +1,104 @@
+// ECE6370
+// Author: Sohail Shareef 5985
+// This module is to create a access control to allow a validation of a 6 bit password 
+// by checking each bit and then produce a green light if all matches or red if 
+// any fail  
+module access_control(button_pulse, toggle_switch,ld1, ld2, red_led, green_led, ld1_out, ld2_out, clk, rst,address,q);
+ 
+ input button_pulse,ld1, ld2;
+ input clk,rst;
+ input [3:0]toggle_switch,q;
+ output reg [3:0] address;
+ output reg ld1_out, ld2_out;
+ output reg red_led, green_led;
+  
+ reg flag; 
+ reg [2:0] state;
+ parameter s_wait=0,s1=1,s2=2,s3=3,s4=4,s5=5,s6=6,s7=7,s8=8;
+
+
+ always @ (posedge clk)
+ begin
+ if(rst==0) begin
+   state<=s_wait;
+   flag=1;
+   address <= 4'b0000;
+ end
+ else
+  begin
+   case(state)
+ 
+     s_wait:
+      begin
+       flag=1;
+       red_led<=0;
+       green_led<=0;
+       ld1_out<=1;
+       ld2_out<=0;
+       address <= 4'b0000;
+       if(button_pulse==1)
+          state<=s1;
+      else
+          state<=s_wait;
+       end
+
+     s1: begin
+	red_led<=0;
+       	green_led<=0;
+
+	if(button_pulse==1) begin
+       		address <= address+4'b0001;           
+       		state<=s2;
+	end
+     	else begin
+        	state<=s1;
+       	end
+	end  
+         
+     s2:
+      begin
+       state<=s3;
+      end   
+     s3:
+      begin
+       state<=s5;
+       end     
+     s5:
+      begin
+	if(toggle_switch!=q) begin
+        	flag=0;
+		
+	end
+	if(address==4'b0100) begin
+		state<=s7;
+	end
+	else begin
+	state<=s1;	end
+	end           
+
+    s7:
+      begin
+       if(flag==1)begin
+	red_led<=0;
+       green_led<=1;
+	  if(ld1==1) begin 
+		ld1_out<=1;
+	  end
+	  else begin
+	  ld1_out=0;
+		end
+	end
+	else begin
+	red_led<=1;
+        green_led<=0;
+	end
+	if(ld2==1)
+        ld2_out<=1;
+       else ld2_out<=0;
+      end
+    default:
+      state<=s_wait;
+   endcase
+  end
+end
+endmodule

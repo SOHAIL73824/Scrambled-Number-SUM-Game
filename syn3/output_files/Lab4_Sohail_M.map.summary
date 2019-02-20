@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Mon Apr 09 10:35:39 2018
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Lite Edition
+Revision Name : Lab4_Sohail_M
+Top-level Entity Name : Lab4_Sohail_M
+Family : Cyclone IV E
+Total logic elements : 166
+    Total combinational functions : 158
+    Dedicated logic registers : 78
+Total registers : 78
+Total pins : 58
+Total virtual pins : 0
+Total memory bits : 64
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
